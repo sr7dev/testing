@@ -29,7 +29,7 @@
   "devDependencies": {
     "dependency-check": "^2.10.1",
     "nodemon": "^1.19.3",
-    "nyc": "^11.9.0",
+    "nyc": "^15.1.0",
     "servertest": "^1.2.1",
     "split2": "^2.2.0",
     "standard": "^10.0.3",
