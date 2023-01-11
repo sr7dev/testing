@@ -27,12 +27,12 @@
   },
   "homepage": "https://github.com/Interlincx/example-server#readme",
   "devDependencies": {
-    "dependency-check": "^2.10.1",
-    "nodemon": "^1.19.3",
-    "nyc": "^11.9.0",
+    "dependency-check": "^4.1.0",
+    "nodemon": "^2.0.20",
+    "nyc": "^15.1.0",
     "servertest": "^1.2.1",
     "split2": "^2.2.0",
-    "standard": "^10.0.3",
+    "standard": "^17.0.0",
     "tape": "^4.11.0"
   },
   "dependencies": {
